@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="FurniturePlacementManager">
+			<method name="SwitchFurniture"/>
+			<method name="SwitchFurniture"/>
+			<method name="SwitchFurniture"/>
+		</type>
+	</assembly>
+</linker>
